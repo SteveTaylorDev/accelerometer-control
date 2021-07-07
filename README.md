@@ -6,7 +6,7 @@ Controller scripts for the Game, Camera and Gravity manage their respective task
 
 The Game Controller handles player behaviour like setting its orientation with Gravity and applying it, and using Unity's collision events to apply friction force when in contact with a wall. A global 'Current Down Vector' is set, which represent the current world down direction.
 
-Using the Input Manager through Unity's scripting API, accelerometer x and y inputs are read and combined into a vector3. This vector can then be fed into the controllers, which have multiple useage options for this vector built into them.
+Using the Input Manager through Unity's scripting API, the accelerometer can be read as X and Y inputs. This can be combined into a Vector3. This vector is then fed into the controllers, which have multiple useage options for this vector built into them.
 
 This allows for customizable tools that allow the manipulation of the gravity of the scene, as well as the camera orientation, based on phone rotation.
 
