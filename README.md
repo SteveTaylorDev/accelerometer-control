@@ -1,6 +1,6 @@
 # Accelerometer Control
 
-Android project utilizing the accelerometer as input to manipulate physics properties.
+Android project built in Unity utilizing the accelerometer as input to manipulate physics properties.
 
 Controller scripts for the Game, Camera and Gravity manage their respective tasks.
 
