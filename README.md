@@ -4,7 +4,7 @@ Android project built in Unity utilizing the accelerometer as input to manipulat
 
 Controller scripts for the Game, Camera and Gravity manage their respective tasks.
 
-The Game Controller handles player behaviour like setting its orientation with Gravity and applying it, and using Unity's collision events to apply friction force when in contact with a wall. A global 'Current Down Vector' is set, which represent the current world down direction.
+The Game Controller handles player behaviour like setting its orientation with gravity and applying it, and using Unity's collision events to apply friction force when in contact with a wall. A global 'Current Down Vector' is set, which represents the current world down direction.
 
 The Camera Controller features options that allow, among other things, offsetting the current focal target and adjusting zoom by a certain amount depending on the player's current velocity.
 
