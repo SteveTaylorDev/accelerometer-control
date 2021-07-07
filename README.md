@@ -1,6 +1,6 @@
 # Accelerometer Control
 
-Wanting to create a project for smartphones, I had an idea utilizing the accelerometer as input to manipulate physics properties.
+Android project utilizing the accelerometer as input to manipulate physics properties.
 
 Controller scripts for the Game, Camera and Gravity manage their respective tasks.
 
